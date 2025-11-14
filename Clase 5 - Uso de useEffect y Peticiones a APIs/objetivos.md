@@ -1,3 +1,5 @@
+Clase 5: Uso de useEffect y Peticiones a APIs
+
 Objetivo de la clase
 Comprender qué son los efectos secundarios y cómo gestionarlos con el hook useEffect.
 Realizar peticiones a APIs para obtener datos dinámicamente.

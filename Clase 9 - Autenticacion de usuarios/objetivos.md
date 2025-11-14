@@ -1,3 +1,4 @@
+Clase 9: Autenticación de usuarios
 Objetivo de la clase
 Context API y cómo se puede usar para manejar el estado de la autenticación.
 Implementar un formulario de login básico que permita autenticar a un usuario.

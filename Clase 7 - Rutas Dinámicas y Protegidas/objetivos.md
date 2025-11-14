@@ -1,3 +1,4 @@
+Clase 7: Rutas Dinámicas y Protegidas
 Objetivo de la clase
 Aprender a crear rutas dinámicas que utilicen parámetros para renderizar información específica.
 Configurar rutas protegidas para restringir el acceso a ciertas páginas a usuarios autenticados.

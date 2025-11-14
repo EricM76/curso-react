@@ -1,3 +1,5 @@
+Clase 2: JXS y Componentes
+
 Objetivo de la clase
 Comprender la importancia y las ventajas del uso de JSX.
 Construir componentes más complejos que utilicen estructuras dinámicas.

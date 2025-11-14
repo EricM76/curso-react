@@ -1,3 +1,5 @@
+Clase 3: Layout en React
+
 Objetivo de la clase
 Aprender a estructurar un proyecto React desde cero.
 Crear componentes reutilizables que representen partes fundamentales de una interfaz.
